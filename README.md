@@ -66,3 +66,15 @@ This project involves the generation and analysis of financial data for 50 compa
 This project leverages Python for data synthesis and Power BI for visualization, providing a comprehensive financial dashboard that can be used to assess company performance, financial stability, and risk.
 
 ## 📸 Screenshots
+<img width="574" alt="1" src="https://github.com/user-attachments/assets/970ecb5d-8285-4d34-8115-589a4693055f">
+<img width="577" alt="2" src="https://github.com/user-attachments/assets/3987ce6a-92cd-4374-b3ca-232a579bea4d">
+<img width="577" alt="3" src="https://github.com/user-attachments/assets/4977f220-1d07-4cd7-b993-ca525d468f7c">
+<img width="578" alt="4" src="https://github.com/user-attachments/assets/b644e9f9-60de-4423-87cf-a4e30aaaed00">
+<img width="578" alt="5" src="https://github.com/user-attachments/assets/acd0074b-9199-483c-a612-f19c0678c270">
+<img width="577" alt="6" src="https://github.com/user-attachments/assets/6e798587-ba98-41b5-a699-bc82775effd7">
+
+
+
+
+
+
