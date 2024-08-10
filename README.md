@@ -1,7 +1,7 @@
 # 📊 Financial Performance Dashboard Project
 
 ## 📝 Overview
-This project involves the generation and analysis of financial data for 50 companies across various industries. The data is synthesized using Python libraries and is used to create an interactive Power BI dashboard. The dashboard provides insights into company performance, financial health, cash flow, investments, and risk assessment.
+This project involves the creation of a simulated financial dataset for 50 companies across various industries and regions, and the development of a detailed Power BI dashboard for financial analysis. The dataset spans 5 years, covering key financial metrics like assets, liabilities, revenue, investments, and cash flows. The Power BI dashboard offers insights into company performance, risk assessment, and financial health.
 
 ## 📈 Dashboard Sections
 
@@ -54,13 +54,10 @@ This project involves the generation and analysis of financial data for 50 compa
 - **Python**: For data generation and verification using libraries like pandas, numpy, and Faker.
 - **Power BI**: For creating an interactive dashboard that visualizes the generated data.
 
-## 📂 Directory Structure
-- **companies.csv**: Contains synthesized company data.
-- **assets_liabilities.csv**: Contains data on company assets and liabilities.
-- **sales.csv**: Contains sales data (Revenue, Cost of Goods Sold).
-- **investments.csv**: Contains investment data (Capital Expenditure, Equity Investment).
-- **financials.csv**: Contains detailed financial data (Revenue, Net Income, etc.).
-- **cash_flow.csv**: Contains cash flow data (Operating, Investing, Financing, Net Cash Flow).
+## 📋 How to Use
+1. Data Generation: Run the Python script to generate the dataset, which will save CSV files in the specified directory.
+2. Load Data into Power BI: Open the Fin Project.pbix file in Power BI to interact with the dashboard.
+3. Customization: Modify the script to generate new datasets or adjust the Power BI visuals to meet specific analysis needs.
 
 ## 📝 Conclusion
 This project leverages Python for data synthesis and Power BI for visualization, providing a comprehensive financial dashboard that can be used to assess company performance, financial stability, and risk.
